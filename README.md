@@ -1,4 +1,4 @@
-# Zaaaan7-Mobile-App-API-Test-Report
+# ServiceProvider-Mobile-App-API-Test-Report
 
 <h1 align="center">🧪 API Automation Reports</h1>
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 📌 Project Summary
 
-Zaaaan7 Project is a service-based mobile application that connects users with Helpers/Workers who provide various types of services based on the users’ needs. The platform features two types of users: service seekers and service providers (Helpers). Helpers can belong to different categories, such as assistants, electricians, plumbers, or mounting specialists.
+Service Provider Management System `Zaaaan7`, the project is a service-based mobile application that connects users with Helpers/Workers who provide various types of services based on the users’ needs. The platform features two types of users: service seekers and service providers (Helpers). Helpers can belong to different categories, such as assistants, electricians, plumbers, or mounting specialists.
 Both users and Helpers set their locations to either request or offer services within their area. The platform also includes a messaging feature that allows seamless communication between users and Helpers. Additionally, users can leave reviews and ratings for Helpers to recognize their outstanding work and help others make informed decisions.. This repository documents the **API testing results** of the `Zaaaan7` API, executed using **Postman collections** and automated via **Newman CLI**.
 
 ---
